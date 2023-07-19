@@ -12,7 +12,7 @@ I'm a Indie developer with 9 years of experience. I'm passionate about Flutter.
 - **TodoChat**: Your smart to-do list management assistant. [https://todochat.kaminono.com/](https://todochat.kaminono.com/)
 
 ## 📝 Blogs
-- **CSDN Blog**: [[Link to Blog Post](https://blog.csdn.net/diandianxiyu_geek?type=blog)](https://blog.csdn.net/diandianxiyu_geek?type=blog)
+- **CSDN Blog**: [blog.csdn.net/diandianxiyu_geek](https://blog.csdn.net/diandianxiyu_geek?type=blog)
 
 ## 📫 Contact Me
 - Email: xiaoyu@metalyoung.com
