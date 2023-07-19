@@ -6,7 +6,8 @@ I'm a Indie developer with 9 years of experience. I'm passionate about Flutter.
 ## 🎯 Skills
 - **Languages**: PHP、Python、Go、JavaScript、Flutter
 - **Frameworks/Libraries**: Yii2、Django、Nextjs、Tailwindcss
-- **Project Management**: PMP certified [![PMP Badge](badge-pmp.png)]([https://example.com](https://www.credly.com/badges/660bcb6a-46b7-43c7-9716-35de276a687e/public_url))
+- **Project Management**: PMP certified [![PMP Badge](badge-pmp.png)](https://www.credly.com/badges/660bcb6a-46b7-43c7-9716-35de276a687e/public_url)
+
 ## 🛠️ Projects
 - **TodoChat**: Your smart to-do list management assistant. [https://todochat.kaminono.com/](https://todochat.kaminono.com/)
 
@@ -15,10 +16,6 @@ I'm a Indie developer with 9 years of experience. I'm passionate about Flutter.
 
 ## 📫 Contact Me
 - Email: xiaoyu@metalyoung.com
-
-## 🎖️ Contributions
-- Contributed to [Open Source Project Name]. [Link to Contribution]
-- Solved [Number of Problems] problems on [Platform Name]. [Link to Profile]
 
 ## 🎯 Goals
 Publish more standalone apps to help people be more personally productive.
