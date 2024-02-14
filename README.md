@@ -10,6 +10,7 @@ I'm a Indie developer with 10 years of experience. I'm passionate about Flutter.
 
 ## 🛠️ Projects
 - **TodoChat**: Your smart to-do list management assistant. [https://todochat.kaminono.com/](https://todochat.kaminono.com/)
+- **Share to Flomo**： Obsidian plugin [https://obsidian.md/plugins?search=obsidian-to-flomo]
 
 ## 📝 Blogs
 - **CSDN Blog**: [blog.csdn.net/diandianxiyu_geek](https://blog.csdn.net/diandianxiyu_geek?type=blog)
