@@ -9,6 +9,7 @@ I'm a Indie developer with 10 years of experience. I'm passionate about Flutter.
 - **Project Management**: PMP certified [![PMP Badge](badge-pmp.png)](https://www.credly.com/badges/660bcb6a-46b7-43c7-9716-35de276a687e/public_url)
 
 ## 🛠️ Projects
+- **PawComp**: PawComp helps you manage your pet’s information effortlessly. [https://pawcomp.kaminono.com/](https://pawcomp.kaminono.com/)
 - **TodoChat**: Your smart to-do list management assistant. [https://todochat.kaminono.com/](https://todochat.kaminono.com/)
 - **Share to Flomo**： Obsidian plugin [https://obsidian.md/plugins?search=obsidian-to-flomo]
 
